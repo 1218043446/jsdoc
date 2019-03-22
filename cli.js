@@ -7,7 +7,7 @@
  * + The module should really export an instance of `cli`, and `props` should be properties of a
  * `cli` instance.
  *
- * @private
+ * @p rivate
  */
 module.exports = (() => {
     const app = require('jsdoc/app');
